@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# 
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusStorage.Api", "BusStorage.Api\BusStorage.Api.csproj", "{DE160EF1-9AF0-4591-B9F9-C5DE435BB70E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusStorage.Dal", "BusStorage.Dal\BusStorage.Dal.csproj", "{3E442434-D44F-4566-A105-AE64EE2A785F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusStorage.Application", "BusStorage.Application\BusStorage.Application.csproj", "{40C1D3C8-E9ED-49E6-AF2B-0EDD9C171C54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusStorage.Domain", "BusStorage.Domain\BusStorage.Domain.csproj", "{C5B8E313-EFDE-4ED4-82A9-338E21DE99E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE160EF1-9AF0-4591-B9F9-C5DE435BB70E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE160EF1-9AF0-4591-B9F9-C5DE435BB70E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE160EF1-9AF0-4591-B9F9-C5DE435BB70E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE160EF1-9AF0-4591-B9F9-C5DE435BB70E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E442434-D44F-4566-A105-AE64EE2A785F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E442434-D44F-4566-A105-AE64EE2A785F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E442434-D44F-4566-A105-AE64EE2A785F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E442434-D44F-4566-A105-AE64EE2A785F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40C1D3C8-E9ED-49E6-AF2B-0EDD9C171C54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40C1D3C8-E9ED-49E6-AF2B-0EDD9C171C54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40C1D3C8-E9ED-49E6-AF2B-0EDD9C171C54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40C1D3C8-E9ED-49E6-AF2B-0EDD9C171C54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5B8E313-EFDE-4ED4-82A9-338E21DE99E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5B8E313-EFDE-4ED4-82A9-338E21DE99E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5B8E313-EFDE-4ED4-82A9-338E21DE99E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5B8E313-EFDE-4ED4-82A9-338E21DE99E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
