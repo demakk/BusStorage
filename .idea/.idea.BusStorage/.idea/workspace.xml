@@ -6,29 +6,66 @@
     <projectFile profileName="https">BusStorage.Api/BusStorage.Api.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06c56fe4-a42a-4957-a213-4592214383dc" name="Changes" comment="" />
+    <list default="true" id="06c56fe4-a42a-4957-a213-4592214383dc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/BusStorage.Api/Controllers/BusController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BusStorage/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BusStorage/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BusStorage.Api/BusStorage.Api.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/BusStorage.Api/BusStorage.Api.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BusStorage.Api/Controllers/WeatherForecastController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BusStorage.Api/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BusStorage.Api/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BusStorage.Api/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/BusStorage.Api/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BusStorage.Application/BusStorage.Application.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/BusStorage.Application/BusStorage.Application.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BusStorage.Application/Class1.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BusStorage.Dal/BusStorage.Dal.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/BusStorage.Dal/BusStorage.Dal.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BusStorage.Domain/Aggregates/Bus.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BusStorage.Domain/Aggregates/Bus.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BusStorage.Domain/Aggregates/BusStop.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BusStorage.Domain/Aggregates/BusStop.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BusStorage.Domain/Aggregates/City.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BusStorage.Domain/Aggregates/City.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BusStorage.Domain/Aggregates/Route.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BusStorage.Domain/Aggregates/BusRoute.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BusStorage.Domain/Aggregates/Schedule.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BusStorage.Domain/Aggregates/Schedule.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BusStorage.Domain/Class1.cs" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/889595c0c9f04f5199bbadadab8ed150b1d8a0/6f/afcdfdbd/ManualResetEventSlim.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/19ba5a289f2afd3f4d5e862cb3f3efee6181683a31ee31b86c2298b1f51114b/ServiceProvider.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BusStorage.Api/ApiRoutes.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BusStorage.Api/Controllers/BusRouteController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BusStorage.Api/Controllers/ScheduleController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BusStorage.Api/Controllers/UserController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BusStorage.Application/DTOs/ClosestBus.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BusStorage.Application/Repositories/BusRouteRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BusStorage.Application/Repositories/Interfaces/IUserActionsRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BusStorage.Application/Repositories/UserActionsRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BusStorage.Application/Services/UserActionsService.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Xc2J2fJU8zASy7ieTlaBvmEIJo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;sqlserver&quot;
+    ]
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected=".NET Launch Settings Profile.BusStorage.Api: IIS Express">
     <configuration name="BusStorage.Api: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/BusStorage.Api/BusStorage.Api.csproj" />
@@ -84,15 +121,93 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1698913974694</updated>
-      <workItem from="1698913974795" duration="3980000" />
+      <workItem from="1698913974795" duration="4638000" />
+      <workItem from="1699702216451" duration="596000" />
+      <workItem from="1699719074586" duration="7933000" />
+      <workItem from="1699785019499" duration="8891000" />
+      <workItem from="1699804082615" duration="8525000" />
+      <workItem from="1699949142375" duration="8468000" />
+      <workItem from="1700037208237" duration="5567000" />
+      <workItem from="1700049069068" duration="2302000" />
+      <workItem from="1700068442587" duration="4024000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/BusStorage.Dal/DapperContext.cs</url>
+          <line>12</line>
+          <properties documentPath="D:\dotnet\repositories\BusStorage\BusStorage\BusStorage.Dal\DapperContext.cs" initialLine="12" containingFunctionPresentation="constructor 'DapperContext'">
+            <startOffsets>
+              <option value="268" />
+            </startOffsets>
+            <endOffsets>
+              <option value="338" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/BusStorage.Dal/DapperContext.cs</url>
+          <line>13</line>
+          <properties documentPath="D:\dotnet\repositories\BusStorage\BusStorage\BusStorage.Dal\DapperContext.cs" initialLine="13" containingFunctionPresentation="constructor 'DapperContext'">
+            <startOffsets>
+              <option value="343" />
+            </startOffsets>
+            <endOffsets>
+              <option value="344" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/BusStorage.Application/Services/CityServices.cs</url>
+          <line>16</line>
+          <properties documentPath="D:\dotnet\repositories\BusStorage\BusStorage\BusStorage.Application\Services\CityServices.cs" initialLine="17" containingFunctionPresentation="method 'AddCity'">
+            <startOffsets>
+              <option value="377" />
+            </startOffsets>
+            <endOffsets>
+              <option value="409" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/BusStorage.Application/Repositories/CityRepository.cs</url>
+          <line>44</line>
+          <properties documentPath="D:\dotnet\repositories\BusStorage\BusStorage\BusStorage.Application\Repositories\CityRepository.cs" initialLine="30" containingFunctionPresentation="method 'GetAll'">
+            <startOffsets>
+              <option value="1252" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1301" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

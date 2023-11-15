@@ -1,10 +1,7 @@
-﻿using System.Data.Common;
+﻿namespace BusStorage.Api.DTOs.Schedule;
 
-namespace BusStorage.Domain.Aggregates;
-
-public class Schedule
+public class ScheduleCreate
 {
-    public int ScheduleId { get; set; }
     public int BusId { get; set; }
     public int RouteId { get; set; }
     public int StopId { get; set; }

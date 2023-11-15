@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\BusStorage.Dal\BusStorage.Dal.csproj" />
+    <ProjectReference Include="..\BusStorage.Domain\BusStorage.Domain.csproj" />
+  </ItemGroup>
+
 </Project>

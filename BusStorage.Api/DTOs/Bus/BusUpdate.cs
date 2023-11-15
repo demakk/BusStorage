@@ -1,8 +1,7 @@
-﻿namespace BusStorage.Domain.Aggregates;
+﻿namespace BusStorage.Api.DTOs.Bus;
 
-public class Bus
+public class BusUpdate
 {
-    public int BusId { get; set; }
     public string BusNumber { get; set; }
     public string? Model { get; set; }
     public int ManufacturingYear { get; set; }

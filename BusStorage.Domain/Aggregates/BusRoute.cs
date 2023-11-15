@@ -1,8 +1,8 @@
 ﻿namespace BusStorage.Domain.Aggregates;
 
-public class Route
+public class BusRoute
 {
-    public int Id { get; set; }
+    public int RouteId { get; set; }
     public string RouteName { get; set; }
     public string? RouteDescription { get; set; }
     public string StartLocation { get; set; }

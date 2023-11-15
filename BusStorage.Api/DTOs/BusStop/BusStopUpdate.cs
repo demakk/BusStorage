@@ -1,8 +1,7 @@
-﻿namespace BusStorage.Domain.Aggregates;
+﻿namespace BusStorage.Api.DTOs.BusStop;
 
-public class BusStop
+public class BusStopUpdate
 {
-    public int StopId { get; set; }
     public string StopName { get; set; }
     public decimal Latitude { get; set; }
     public decimal Longitude { get; set; }

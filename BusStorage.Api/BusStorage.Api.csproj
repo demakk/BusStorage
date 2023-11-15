@@ -11,4 +11,9 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\BusStorage.Application\BusStorage.Application.csproj" />
+    <ProjectReference Include="..\BusStorage.Dal\BusStorage.Dal.csproj" />
+  </ItemGroup>
+
 </Project>
